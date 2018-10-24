@@ -1,0 +1,6 @@
+[submodule "appium"]
+	path = appium
+	url = ../appium.git
+[submodule "appium-aurora-driver"]
+	path = appium-aurora-driver
+	url = ../appium-aurora-driver
